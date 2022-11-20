@@ -1,0 +1,9 @@
+pyrogram
+pytube
+youtube-search
+TgCrypto
+spotipy
+requests
+json
+humanize
+asyncio
