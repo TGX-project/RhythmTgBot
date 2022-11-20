@@ -1,6 +1,5 @@
 import json
 import glob
-import requests
 import importlib
 from lib import config
 from pyrogram import Client, filters
